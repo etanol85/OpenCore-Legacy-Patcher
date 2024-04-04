@@ -116,7 +116,8 @@ The patcher is designed to target **macOS Big Sur 11.x to macOS Sonoma 14.x**.
 | iMac (27-inch, Late 2012) | `iMac13,2` | ^^ |
 | iMac (21.5-inch, Early 2013) | `iMac13,3` | ^^ |
 | iMac (21.5-inch, Late 2013) | `iMac14,1` | ^^ |
-| iMac (27-inch, Late 2013) | `iMac14,2`<br>`iMac14,3` | ^^ |
+| iMac (27-inch, Late 2013) | `iMac14,2` | ^^ |
+| iMac (21.5-inch, Mid 2013) | `iMac14,3` | ^^ |
 | iMac (21.5-inch, Mid 2014) | `iMac14,4` | ^^ |
 | iMac (Retina 5K, 27-inch, Late 2014)<br>iMac (Retina 5K, 27-inch, Mid 2015) | `iMac15,1` | ^^ |
 | iMac (21.5-inch, Late 2015) | `iMac16,1` | ^^ |
